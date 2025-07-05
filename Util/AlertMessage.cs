@@ -12,7 +12,7 @@
                 ALERTA! TRANSFERENCIA DE ALTO VALOR DETECTADA!
                 |CONTA REMENTENTE       |{args.SenderAccount.Id}
                 |CONTA DESTINATARIA     |{args.RecipientAccount.Id}
-                |VALOR DA TRANSAÇÃO     |{args.TranferValue}
+                |VALOR DA TRANSAÇÃO     |{args.TransferValue}
                 |DATA                   |{args.Date}
                 """);
         }
